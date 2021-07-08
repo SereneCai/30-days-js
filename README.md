@@ -19,5 +19,11 @@ https://user-images.githubusercontent.com/73454440/124736561-b78cd980-df49-11eb-
 
 Source: [Click here](https://www.youtube.com/watch?v=ROz4Fosxd00)
 
+## Day 3 - Expanding Cards
+
+https://user-images.githubusercontent.com/73454440/124906908-25083b00-e01a-11eb-8555-feb8189be3d7.mov
+
+
+
 
 
