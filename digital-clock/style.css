@@ -25,7 +25,6 @@ html, body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-
 }
 
 .container .clock-display {
@@ -53,4 +52,19 @@ html, body {
         filter: hue-rotate(360deg);
     }
     
+}
+
+.container span{
+    /* height: 100%; */
+    width: 100%;
+    background: inherit;
+    border-radius: 10px;
+}
+
+.container span:first-child {
+    filter: blur(10px);
+}
+
+.container span:last-child {
+    filter: blur(20px);
 }
