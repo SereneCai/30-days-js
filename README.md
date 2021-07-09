@@ -23,6 +23,12 @@ Source: [Click here](https://www.youtube.com/watch?v=ROz4Fosxd00)
 
 https://user-images.githubusercontent.com/73454440/124906908-25083b00-e01a-11eb-8555-feb8189be3d7.mov
 
+## Day 4 - Digital Clock
+
+<img width="560" alt="Screenshot 2021-07-09 at 3 47 34 PM" src="https://user-images.githubusercontent.com/73454440/125043079-29416080-e0cd-11eb-9cfb-3208c56b4f28.png">
+
+
+
 
 
 
