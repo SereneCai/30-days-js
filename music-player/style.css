@@ -55,7 +55,7 @@ body {
 }
 
 .music-container.play .img-container img {
-    animation-play-state: running;
+    /* animation-play-state: running; */
 }
 
 @keyframes rotate {
@@ -117,5 +117,18 @@ body {
 }
 
 .progress-container {
-    
+    background-color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px 0;
+    height: 4px;
+    width: 100%;
+}
+
+.progress {
+    background-color: teal;
+    border-radius: 5px;
+    height: 100%;
+    width: 0;
+    transition: width 0.1s linear;
 }
