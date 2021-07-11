@@ -31,11 +31,14 @@ function loadSong(song) {
 
 function pauseSong(){
     musicContainer.classList.remove('play');
-
+    playButton.querySelector('i.fas').classList.remove('fa-pause');
+    playButton.querySelector('i.fas').classList.add('fa-play');
 }
 
 function playSong(){
     musicContainer.classList.add('play');
+    playButton.querySelector('i.fas').classList.remove('fa-play');
+    playButton.querySelector('i.fas').classList.add('fa-pause');
     
 }
 
