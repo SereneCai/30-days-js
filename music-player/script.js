@@ -29,4 +29,22 @@ function loadSong(song) {
     cover.src = `${picture}`;
 }
 
-playButton.addEventListener('click')
+function pauseSong(){
+    musicContainer.classList.remove('play');
+
+}
+
+function playSong(){
+    musicContainer.classList.add('play');
+    
+}
+
+playButton.addEventListener('click', ()=> {
+    const isPlaying = musicContainer.classList.contains('play');
+    if (isPlaying){
+        pauseSong();
+    }
+    else {
+        playSong();
+    }
+})
